@@ -5,3 +5,4 @@ git tracks changes of files.
 Creating a new branch is quick and simple.
 use --no-ff git merge
 git stash test is finished
+test git stash
